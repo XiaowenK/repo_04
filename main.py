@@ -9,3 +9,8 @@ def func1():
 def func2():
   # by kxw
   pass
+
+
+def func3():
+  # by kxw
+  pass
