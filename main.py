@@ -14,3 +14,8 @@ def func2():
 def func3():
   # by kxw
   pass
+
+
+def func3():
+  # by cyq
+  pass
